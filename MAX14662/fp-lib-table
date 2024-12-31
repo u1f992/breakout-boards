@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MAX14662ETI+")(type "KiCad")(uri "${KIPRJMOD}/LIB_MAX14662ETI+/MAX14662ETI+/KiCad")(options "")(descr ""))
+)
