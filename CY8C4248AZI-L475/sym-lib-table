@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CY8C4248AZI-L475")(type "KiCad")(uri "${KIPRJMOD}/CY8C4248AZI-L475/CY8C4248AZI-L475.kicad_sym")(options "")(descr ""))
+)
