@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MYRBP500080W21RD")(type "KiCad")(uri "${KIPRJMOD}/lib/LIB_MYRBP500080W21RD/MYRBP500080W21RD/KiCad/MYRBP500080W21RD.kicad_sym")(options "")(descr ""))
+)

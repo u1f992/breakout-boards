@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MYRBP500080W21RD"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-03-30-11:35:53)
+    (mountForm default
+        (footprintRef "MYRBP500080W21RD")
+        (spec "System")
+    )
+)

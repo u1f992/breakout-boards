@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=MYRBP500080W21RD
+PartCategory=Power Supply
+PackageCategory=Other
+PinCount=9
+Version=6.4
+Released=2022-03-18 06:02:52
+Downloaded=2025-02-23 10:42:30
+3D=Y

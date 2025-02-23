@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MYRBP500080W21RD'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "MYRBP500080W21RD" (!) = "", "MYRBP500080W21RD", "Other", "81-MYRBP500080W21RD", "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/MYRBP500080W21RD?qs=hd1VzrDQEGh%2Fg85ihM7iTw%3D%3D", "MYRBP500080W21RD", "https://www.arrow.com/en/products/myrbp500080w21rd/murata-power-solutions?region=nac", "Non-Isolated PoL Module DC DC Converter 1 Output 5V 500mA 0.65V - 6V Input", "https://www.murata.com/products/productdata/8809985572894/MYRBP-B-W.pdf?1604930424000", "1.04 mm"
+END_PART
+
+END.
