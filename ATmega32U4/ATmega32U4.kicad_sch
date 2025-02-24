@@ -7012,6 +7012,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C386081"
+			(at 92.71 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c97ef193-bfd6-4eb9-afcc-38d5a75c26f4")
 		)
@@ -7082,6 +7091,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C386081"
+			(at 154.94 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6e382085-3e0b-45e6-a393-b53cc69e927a")
 		)
@@ -7142,6 +7160,15 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 27.94 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C165948"
 			(at 27.94 38.1 0)
 			(effects
 				(font
@@ -8149,6 +8176,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C19078192"
+			(at 43.18 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cb60d868-866d-4583-b04d-43270b1d6cfb")
 		)
@@ -8285,6 +8321,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 146.05 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C386081"
 			(at 146.05 30.48 0)
 			(effects
 				(font
@@ -8808,7 +8853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "Library:CDBVRL140-HF"
 			(at 81.28 29.21 0)
 			(effects
 				(font
@@ -8827,6 +8872,15 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 81.28 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3758192"
 			(at 81.28 29.21 0)
 			(effects
 				(font
@@ -9140,7 +9194,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "Library:CDBVRL140-HF"
 			(at 81.28 24.13 0)
 			(effects
 				(font
@@ -9159,6 +9213,15 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 81.28 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3758192"
 			(at 81.28 24.13 0)
 			(effects
 				(font
