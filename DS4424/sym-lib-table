@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DS4424N+")(type "KiCad")(uri "${KIPRJMOD}/LIB_DS4424N+/DS4424N+/KiCad/DS4424N+.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP659-E-ML")(type "KiCad")(uri "${KIPRJMOD}/ul_MCP659-E-ML/KiCADv6/2025-06-24_13-07-11.kicad_sym")(options "")(descr ""))
+)
